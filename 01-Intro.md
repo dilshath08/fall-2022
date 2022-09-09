@@ -15,13 +15,13 @@ Make sure you have your local environment set up...
 * python & miniconda -- the latest release installed locally (look at Section 1.4 of McKinney)
 * text editor -- vscode or others (e.g., vim) -- not atom, which is deprecated as of summer 2022:-(
 * REPL (read-eval-print-loop) -- make sure you can run code from the command line
-* [git](https://git-scm.com/book/en/v2/Getting-Started-Installing-Git)
+* [git](https://git-scm.com/book/en/v2/Getting-Started-Installing-Git) -- install command-line git
 
 ## Class notes (Colab notebook)
 
 We'll start next week by working on the exercise in this notebook...
 
-* [01 Class Notes.ipynb](https://colab.research.google.com/drive/1aygGMeMIGx16Y4IPORwDmOyfHCmOcWqC)
+* [01-class-notes.ipynb](https://colab.research.google.com/drive/1aygGMeMIGx16Y4IPORwDmOyfHCmOcWqC)
 
 ## Looking ahead
 
