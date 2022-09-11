@@ -7,6 +7,12 @@
 * Course overview
 * Intro to Colab (command line, git, github)
 
+## Class notes (colab notebook)
+
+We'll start next week by working on the exercise in this notebook...
+
+* [01-class-notes.ipynb](https://colab.research.google.com/drive/1aygGMeMIGx16Y4IPORwDmOyfHCmOcWqC)
+
 ## Student responsibilities (for next week)
 
 Make sure you have your local environment set up...
@@ -17,11 +23,14 @@ Make sure you have your local environment set up...
 * REPL (read-eval-print-loop) -- make sure you can run code from the command line
 * [git](https://git-scm.com/book/en/v2/Getting-Started-Installing-Git) -- install command-line git
 
-## Class notes (Colab notebook)
+## Reading (for next week)
 
-We'll start next week by working on the exercise in this notebook...
-
-* [01-class-notes.ipynb](https://colab.research.google.com/drive/1aygGMeMIGx16Y4IPORwDmOyfHCmOcWqC)
+* [Python for Data Analysis, 3rd Ed](https://wesmckinney.com/book/) (2022) by Wes McKinney
+  * [Chapter 1, Preminaries](https://wesmckinney.com/book/preliminaries.html)
+    * This is important
+    * You should follow the instructions for installing a Python environment with miniconda
+* [How to ask a good question](https://stackoverflow.com/help/how-to-ask) -- stackoverflow.com
+  * This was mentioned in class -- it's here as a reference
 
 ## Looking ahead
 
@@ -31,15 +40,6 @@ Next week we'll be using...
 * [I/O methods](https://docs.python.org/3/tutorial/inputoutput.html)
 * [string methods](https://docs.python.org/3/library/stdtypes.html)
 * [matplotlib](https://matplotlib.org/)
-
-## Reading (for next week)
-
-* [Python for Data Analysis, 3rd Ed](https://wesmckinney.com/book/) (2022) by Wes McKinney
-  * [Chapter 1, Preminaries](https://wesmckinney.com/book/preliminaries.html)
-    * This is important
-    * You should follow the instructions for installing a Python environment with miniconda
-* [How to ask a good question](https://stackoverflow.com/help/how-to-ask) -- stackoverflow.com
-  * This was mentioned in class -- it's here as a reference
 
 ## Reading (looking ahead)
 
@@ -57,6 +57,17 @@ Next week we'll be using...
 ## Syllabus
 
 * Syllabus (in Canvas) -- review the content in detail
+
+## Projects
+
+* http://ds5010.github.io/vaccines
+* http://ds5010.github.io/broadband
+* git & github for version control and collaboration
+* branches/pull requests/merging for communication & development (later this semester)
+* project management -- planning and modularizing (a key to success)
+* communication/documentation for 2 audiences:
+  * developers (6-month rule)
+  * stakeholders/general public (gh-pages)
 
 ## Attribution
 
@@ -81,3 +92,4 @@ Next week we'll be using...
   * Look here: https://github.com/mwaskom/seaborn-data/blob/master/iris.csv
   * Use the "raw" link
   * `!curl -O "https://raw.githubusercontent.com/mwaskom/seaborn-data/master/iris.csv"`
+
