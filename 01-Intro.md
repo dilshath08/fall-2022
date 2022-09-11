@@ -5,7 +5,7 @@
 
 * Introductions
 * Course overview
-* Intro to Colab (command line, git, github)
+* Colab intro
 
 ## Class notes (colab notebook)
 
@@ -92,4 +92,4 @@ Next week we'll be using...
   * Look here: https://github.com/mwaskom/seaborn-data/blob/master/iris.csv
   * Use the "raw" link
   * `!curl -O "https://raw.githubusercontent.com/mwaskom/seaborn-data/master/iris.csv"`
-
+* [colab.md](colab.md) -- look here for additional hints on using colab
