@@ -78,6 +78,10 @@ Next week we'll be using...
 * [CapitalOne perspective](https://www.capitalone.com/tech/open-source/open-source-licenses-explained-2021/)
   * An open source lawyer explains code use under various open source licenses
 
+## Iris dataset
+
+* [iris_dataset.md](iris_dataset.md)
+
 ## In-class exercise -- colab intro
 
 * Colab -- https://colab.research.google.com/
