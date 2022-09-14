@@ -21,6 +21,10 @@ Make sure you have your local environment set up...
 * python & miniconda -- the latest release installed locally (look at Section 1.4 of McKinney)
 * text editor -- vscode or others (e.g., vim) -- not atom, which is deprecated as of summer 2022:-(
 * REPL (read-eval-print-loop) -- make sure you can run code from the command line
+  * Note: [vscode + vim](https://marketplace.visualstudio.com/items?itemName=vscodevim.vim) works well
+  * Key remapping enables key repeating...
+  * Execute the following line in a terminal, then log out and log back in
+  * `$ defaults write com.microsoft.VSCode ApplePressAndHoldEnabled -bool false              # For VS Code`
 * [git](https://git-scm.com/book/en/v2/Getting-Started-Installing-Git) -- install command-line git
 
 ## Reading (for next week)
